@@ -6,13 +6,16 @@ Sort photos and videos by drag &amp; drop into year/event folders. Reads dates f
 *Demo in German: [docs/ImgSorter-Demo_de.gif](docs/ImgSorter-Demo_de.gif)*
 
 
+## Download
+Download the file for your system from the **[latest release](https://github.com/derMischka81/ImgSorter/releases/latest)** (or click a file name below):
+
 | File | |
 |---|---|
-| `imgsorter_x64-linux_GTK2` | Linux 64 bit, GTK2 – **recommended** |
-| `imgsorter_x64-linux_Qt5` | Linux 64 bit, Qt5 |
-| `imgsorter_x64-win64.exe` | Windows 64 bit |
-| `imgsorter_arm64-linux_GTK2` | Linux ARM 64 bit (Raspberry Pi), GTK2 – **recommended** |
-| `imgsorter_arm64-linux_Qt5` | Linux ARM 64 bit (Raspberry Pi), Qt5 |
+| [`imgsorter_x64-linux_GTK2`](https://github.com/derMischka81/ImgSorter/releases/latest/download/imgsorter_x64-linux_GTK2) | Linux 64 bit, GTK2 – **recommended** |
+| [`imgsorter_x64-linux_Qt5`](https://github.com/derMischka81/ImgSorter/releases/latest/download/imgsorter_x64-linux_Qt5) | Linux 64 bit, Qt5 |
+| [`imgsorter_x64-win64.exe`](https://github.com/derMischka81/ImgSorter/releases/latest/download/imgsorter_x64-win64.exe) | Windows 64 bit |
+| [`imgsorter_arm64-linux_GTK2`](https://github.com/derMischka81/ImgSorter/releases/latest/download/imgsorter_arm64-linux_GTK2) | Linux ARM 64 bit (Raspberry Pi), GTK2 – **recommended** |
+| [`imgsorter_arm64-linux_Qt5`](https://github.com/derMischka81/ImgSorter/releases/latest/download/imgsorter_arm64-linux_Qt5) | Linux ARM 64 bit (Raspberry Pi), Qt5 |
 
 **ImgSorter** sorts photos and videos into folders by drag and drop: drop pictures onto a coloured tile – done. Optionally with year folders (from the capture date), event subfolders, network shares (SMB) and “Undo”.
 
