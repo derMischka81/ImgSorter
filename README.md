@@ -1,6 +1,10 @@
 # ImgSorter
 Sort photos and videos by drag &amp; drop into year/event folders. Reads dates from EXIF, video or filename, writes missing EXIF dates, fixes wrong camera clocks, detects duplicates, supports SMB and undo. Windows, Linux x64/ARM64.
 
+![ImgSorter: drag photos onto a tile, check them in the conflict dialog, apply](docs/ImgSorter-Demo_en.gif)
+
+*Demo in German: [docs/ImgSorter-Demo_de.gif](docs/ImgSorter-Demo_de.gif)*
+
 
 | File | |
 |---|---|
